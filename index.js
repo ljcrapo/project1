@@ -1,1 +1,1 @@
-console.log("Dex smells like wet dog.");
+console.log("Mason is the worst TA");
